@@ -5,14 +5,13 @@
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
 import Cards from './components/Cards'
 
 export default {
   name: 'app',
   components: {
-    Cards
-  }
+    Cards,
+  },
 }
 </script>
 
